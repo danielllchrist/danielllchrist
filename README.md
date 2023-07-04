@@ -1,4 +1,4 @@
-# Daniel C
+# Daniel Christopher S
 ## Student in PPTI BCA Scholarship, Associated to BINUS University
 # Statistics
 ![danchrist04's Github Stats](https://github-readme-stats.vercel.app/api?username=danchrist04&show_icons=true&theme=dracula&hide=stars,issues)
